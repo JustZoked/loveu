@@ -12,8 +12,8 @@
     <form id="form1" runat="server">
         <nav class="navbar">
             <ul>
-                <li><a href="Default.html">Home</a></li>
-		<li><a href="fechas.html">Fotos</a></li>
+                <li><a href="index.aspx">Home</a></li>
+		<li><a href="fechas.aspx">Fotos</a></li>
                 <li><a href="#">Fun Facts</a></li>
                 <li><a href="#">...</a></li>
             </ul>
