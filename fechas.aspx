@@ -8,7 +8,7 @@
 
     <nav class="navbar">
         <ul>
-            <li><a href="index.aspx">Home</a></li>
+            <li><a href="index.html">Home</a></li>
             <li><a href="#">Fechas</a></li>
             <li><a href="#">Fun Facts</a></li>
             <li><a href="#">...</a></li>
